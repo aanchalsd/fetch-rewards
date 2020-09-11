@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div>
         <div className="Title">
-          <h1>Please click on a button to display the Array data</h1>
+          <h1>Please click on a button to display the JSON data</h1>
         </div>
         <FetchedData />
       </div>
